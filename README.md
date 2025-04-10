@@ -12,7 +12,8 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I’m looking to collaborate on anything!
-- I am an IT engineering student.
+- I co-created Mantenipro (maintenance platform).
+- I created SASC (educational management system).
 
 
 ---
