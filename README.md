@@ -6,15 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LSCasas&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSCasas&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSCasas&theme=github_dark" />
-
----
-
-## 🏅 Certifications
+##  Certifications
 
 - [EF SET English Certificate C1 Advanced (62/100)](https://cert.efset.org/en/t6Vvtq)
 - [DevOps Fundamentals – EDteam](https://ed.team/u/luiscasasd6e/ruta/devops/fundamentos)
