@@ -8,9 +8,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LSCasas&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSCasas&layout=compact&theme=dark&hide_border=true&count_private=true" />
-<img src="https://streak-stats.demolab.com?user=LSCasas&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LSCasas&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSCasas&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSCasas&theme=github_dark" />
 
 ---
 
