@@ -8,8 +8,8 @@
 
 ##  GitHub Stats
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSCasas&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSCasas&layout=compact&theme=dark&hide_border=true)
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSCasas&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSCasas&layout=compact&theme=dark&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=LSCasas&theme=dark&hide_border=true)
 
 ---
